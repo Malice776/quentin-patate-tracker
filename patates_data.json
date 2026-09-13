@@ -1,0 +1,24 @@
+{
+  "potato_count": 70,
+  "avg_potato_weight_kg": 0.15,
+  "history": [
+    {
+      "date": "2026-09-14 00:30:17",
+      "action": "+23",
+      "reason": "quentin a encore perdu contre dimitri",
+      "count_after": 70
+    },
+    {
+      "date": "2026-09-14 00:28:53",
+      "action": "+5",
+      "reason": "Amende salée (+5)",
+      "count_after": 47
+    },
+    {
+      "date": "2026-09-14 00:00:00",
+      "action": "+42",
+      "reason": "Dette initiale constatee par le Sherif du Comte de la Frite",
+      "count_after": 42
+    }
+  ]
+}
